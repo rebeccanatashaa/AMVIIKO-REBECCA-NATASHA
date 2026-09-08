@@ -14,7 +14,7 @@ int main()
     long currentPopulation = 312032486;
     // Number of seconds in a year
     const long secondsInAYear = 365 * 24 * 60 * 60;
-    // Number of births, deaths, and immigrants per year
+    
     long birthsPerYear = secondsInAYear / 7;
     long deathsPerYear = secondsInAYear / 13;
     long immigrantsPerYear = secondsInAYear / 45;
