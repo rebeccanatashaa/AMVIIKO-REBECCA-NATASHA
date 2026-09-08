@@ -12,7 +12,7 @@ using namespace std;
 
 int main()
 {
-    double x1, y1, x2, y2, x3, y3; // variables to hold the coordinates of the triangle's vertices
+    double x1, y1, x2, y2, x3, y3;
     cout << "Enter the first point for a triangle (x1, y1): ";
     cin >> x1 >> y1;
     cout << "Enter the second point for a triangle (x2, y2): ";
